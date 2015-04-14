@@ -1,10 +1,10 @@
 Nemovitost by měla umožňovat následující věci:
 
-### 1. Pohodlný vesnický bydlení - 
+### 1. Pohodlný vesnický bydlení
 
 Ideální je prima příroda kolem, stačí nějaká rozumná velikost 3+1 či tak něco (zatim jen já a Pavla). Nejsem si jistej, jestli bychom se vlastně přestěhovali na stálo, ale nějaký útočiště na venkově to prostě chce, Praha neni dlouhodobě udržitelná (alespoň ne z mojeho pohledu).
 
-### 2. Menší openspace kancelář pro IT firmu: 
+### 2. Menší openspace kancelář pro IT firmu
 
 a) Rekreační a týmbuildingový středisko - je hodně fajn se mít kde sejít, popracovat tam společně, popít, poradovat se a poradit se - i když většinu věcí řešíme online. Podle mě by se to dalo takhle teambuildingovat relativně často, Pacovsko neni zas tak daleko od Prahy. 
 
