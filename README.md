@@ -1,39 +1,35 @@
-Nemovitost by měla umožňovat následující věci:
+Celou věc by se mi moc líbilo zrealizovat s napojením na technologie, hezky architektonicky a hlavně: zachránit nějakou umírající nemovitost. Moc bych chtěl koupit nemovitost typu zámek v Košeticích/Oblajovicích/Vodici/Březině a nějak citlivě jí pomoct + tam dostat pohyb + použít naší hlavní sílu: technologie. Myslim prozatim je ale i s pomocí grantů reálné něco výrazně menšího, to o čem jsme se bavili: statek, fara, vila, mlýn.
 
-### 1. Pohodlný vesnický bydlení
+Nemovitost by tedy měla postupně zvládat obsáhnout následující:
 
-Ideální je prima příroda kolem, stačí nějaká rozumná velikost 3+1 či tak něco (zatim jen já a Pavla). Nejsem si jistej, jestli bychom se vlastně přestěhovali na stálo, ale nějaký útočiště na venkově to prostě chce, Praha neni dlouhodobě udržitelná (alespoň ne z mojeho pohledu).
+### 1. Pohodlné vesnické bydlení (do roka po nákupu ideálně)
 
-### 2. Menší openspace kancelář pro IT firmu
+Nutnost je prima příroda kolem a klid, stačí nějaká rozumná velikost, asi 3+1 (4 lidé řekněme).
 
-a) Rekreační a týmbuildingový středisko - je hodně fajn se mít kde sejít, popracovat tam společně, popít, poradovat se a poradit se - i když většinu věcí řešíme online. Podle mě by se to dalo takhle teambuildingovat relativně často, Pacovsko neni zas tak daleko od Prahy. 
+### 2. Menší openspace kancelář pro IT firmu (2-3. rok po nákupu)
 
-b) Jsme sice maličká vývojářská firma, ale je možný, že by nám na některejch byť celkem specializovanejch postech mohli pomáhat lokální lidi. Mam vlastně už nějaký tipy.
+Tady si představuju jeden office s nějakou přednáškovou místností.
 
-c) Vzdělávací centrum - jak pro nás interně, tak pro lokální zájemce. Podle mě by se dali někteří z "pražskejch expertů"  dostat do takovýho centra na přednášky. Samozřejmě otázka je externí zájem o takovou věc :).
+a) Rekreační a týmbuildingové středisko - mít se kde sejít, popracovat tam společně, popít, změnit prostředí
 
-d) Coworking pro místní freelancery - pevně věřim, že několik lidí, kterým by se hodila kancelář ve stylu PragueHub tu je. Prostě zaplatíš měsíční nájem a chodíš si tam pracovat do svýho klidu, ale mezi inspirativní lidi.
+b) Mini kancelář - dá se předpokládat, že budeme mít i několik lokálních zaměstnanců
 
-2e) Technologická líheň - lidi (místní omladina zejména) se zájmem o technologie by měli přístup k všemu zmíněnému.
+c) Vzdělávací centrum - jak pro nás interně, tak pro lokální zájemce. Pražští přijedou v rámci bodu a) do VillageHubu a rádi dají třeba přednášku, místní zájemci zas rádi přijdou poslechnout někoho, kdo umí.
 
-### 3. Skromný ubytování pro návštěvy
+d) Coworking pro místní freelancery (optional) - třeba na Vysočině existuje několik lidí, kterým by se hodila kancelář ve stylu PragueHub
 
-Ať už pro lidi z firmy či externí školitele či prostě návštěvníky. Asi by stačila půda s matracema, rozhodně to nemusí mít vlastnosti hotelu.
+e) Technologická líheň - lidi (místní omladina zejména) se zájmem o technologie by měli přístup k všemu zmíněnému.
 
-Body pod čarou, který by byly fajn časem:
+### 3. Skromný ubytování pro návštěvy (2-3.rok)
 
-### 4. Soběstačná miniekofarma
+Ve finále by se mělo vejít alespoň 10 osob, spíš kolem 20ti (takže ve finále něco jako 10 pokojů?)
 
-Kde bychom oldschoolově pěstili řepu, oldschoolově chovali králiky, věc by byla celkově schopná nás (ideálně nejen) uživit sama.
+Ať už pro lidi z firmy či externí školitele či prostě návštěvníky. Asi by stačila pro začátek půda a matrace, časem by bylo fajn posunout na něco ve stylu penzionu.
 
-### 5. Technologický propojení mezi budovou a jejím využitím
+### 4. Farma 
 
-Např. elektřina ze solárních panelů, softwarově řízená farma, atd.
+Toto je hodně ooptional, u některých nemovitostí si tohle zahrádkaření samo nelze moc představit.
 
-### 6. Family-friendly
+### 5. Technologické propojení mezi budovou a jejím využitím
 
-a) Vylepšit trochu ubytování, protože ajtíkovi s ženou a špuntem půda na přespání prostě nebude vyhovovat.
-
-b) Vymyslet těm lidem program i nějakej nežli sezení u kompu - to je samozřejmě nad rámec uvažování o jedný budově.
-
-Celou věc by se mi moc líbilo zrealizovat vysoce kvalitně technologicky, architektonicky a hlavně: zachránit nějakou umírající nemovitost. V tom ale samozřejmě budou nutný kompromisy - zatim v desítkách milionů nelítám, ale firma tam směřuje, pevně doufám! :) Hrozně bych chtěl koupit nemovitost typu zámek v Košeticích/Oblajovicích/Vodici/Březině a nějak citlivě jí pomoct + tam dostat pohyb + použít naší přirozenost: technologie. Myslim prozatim je ale i s pomocí grantů reál něco výrazně menšího, to o čem jsme se bavili: statek, fara, vila.
+Např. elektřina ze solárních panelů, softwarově řízená farma, atd. Nepochybuju, že se toho dá vymyslet velká spousta.
